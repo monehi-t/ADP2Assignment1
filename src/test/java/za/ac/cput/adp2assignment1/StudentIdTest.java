@@ -17,7 +17,7 @@ import org.junit.jupiter.api.Timeout;
 
 /**
  *
- * @author CPUT
+ * @author Monehi Tuoane 219350744
  */
 public class StudentIdTest {
     

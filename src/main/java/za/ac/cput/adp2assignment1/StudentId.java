@@ -7,7 +7,7 @@ package za.ac.cput.adp2assignment1;
 
 /**
  *
- * @author CPUT
+ * @author Monehi Tuoane 219350744
  */
 public class StudentId {
     
