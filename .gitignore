@@ -1,13 +1,1 @@
 
-# Files and folders to be ignored 
-/target/
-<<<<<<< Upstream, based on origin/master
-=======
-# Files and folders to be ignored by GIT.
-# Netbeans specific folders and files
-/nbproject/
-build.xml
-manifest.mf
-
-=======
->>>>>>> 9541914 Created my program. Deleted the old java and java.test file.
